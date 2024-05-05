@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-10-23T13:57:53Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "CRE LED Backlighting v8"
+        },
+        "Owner": "Mohamed Ghali <eeymg2@nottingham.ac.uk>",
+        "Size": {
+            "X": 133.35,
+            "Y": 79.375
+        }
+    }
+}
